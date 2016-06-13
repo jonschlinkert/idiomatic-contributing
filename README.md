@@ -2,9 +2,9 @@
 
 Welcome! If you've never contributed to a GitHub project before, we hope this guide gives you the confidence to get started. If you're an experienced contributor, hopefully this guide will help you become a more effective contributor, or give you ideas for your own contributing guides. 
 
-**Contributing to this project**
+## Contribute to this project
 
-All contributions are welcome:
+All contributions are welcome, regardless of experience level:
 
 - If you're an experienced contributor, please consider sharing your wisdom in this guide. 
 - If you're new to GitHub and/or open source development, your perspective is equally valuable (perhaps moreso). What questions do you have? What would make it easier for you to contribute? Let us know what's on your mind. 
@@ -60,7 +60,7 @@ Providing this detail up front will make everyone happy. If you don't provide th
 
 #### description
 
-Decribe the bug with all of the details necessary for others to understand the , along with:
+Decribe the bug with all of the details necessary for others to understand what's happening, including:
 
 - [ ] Expected behavior and actual behavior.
 - [ ] Steps to reproduce the problem.
