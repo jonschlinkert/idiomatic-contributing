@@ -25,6 +25,14 @@ The following sections are planned. Any contributions or shared wisdom would be 
 - Code of conduct and beyond
 - [About](#about)
 
+<br/>
+<br/>
+<br/>
+![separator](sep.png)
+<br/>
+<br/>
+<br/>
+
 ## What to expect from this guide
 
 This guide won't teach you how to use git, or GitHub, or any specific frameworks or tools. There are many other resources available for those things. This guide isn't a replacement for a project's `contributing.md` file either. If you find this guide to be useful, we encourage you to link to it from your project's readme and `contributing.md` files.
@@ -112,6 +120,8 @@ Always include the following essential details in every bug report:
 1. [error messages](#error-messages): paste any error messages into the issue or a [github gist](https://gist.github.com/), and be sure to wrap the error messages in [gfm code blocks][gfm].
 1. [code](#code): paste any code necessary for reproducing the bug into the issue or a [github gist](https://gist.github.com/), and be sure to wrap the code in [gfm code blocks][gfm].
 
+Let's review the details in more... detail.
+
 #### 1. version 
 
 Always, always, always provide the version you're using in bug reports. This can't be overstated.
@@ -146,21 +156,29 @@ See GitHub's guide to [Creating and highlighting code blocks][gfm] for more deta
 
 [gfm]: https://help.github.com/articles/creating-and-highlighting-code-blocks/
 
-## Effective feature requests
+### Effective feature requests
 
 TODO
 
-## Contributing code
+### Contributing code
 
 TODO
 
-## Contributing documentation
+### Contributing documentation
 
 TODO
 
-## Other ways to contribute
+### Other ways to contribute
 
 TODO
+
+<br/>
+<br/>
+<br/>
+![separator](sep.png)
+<br/>
+<br/>
+<br/>
 
 ## Code of conduct and beyond
 
