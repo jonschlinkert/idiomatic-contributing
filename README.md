@@ -28,7 +28,7 @@ The following sections are planned. Any contributions or shared wisdom would be 
 <br/>
 <br/>
 <br/>
-![separator](sep.png)
+![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
 <br/>
 <br/>
 <br/>
@@ -45,7 +45,7 @@ If successful, this guide should achieve the following, depending on your level 
 <br/>
 <br/>
 <br/>
-![separator](sep.png)
+![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
 <br/>
 <br/>
 <br/>
@@ -94,7 +94,7 @@ The following items are a pre-requisite for contributing to any project. Avoid c
 <br/>
 <br/>
 <br/>
-![separator](sep.png)
+![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
 <br/>
 <br/>
 <br/>
@@ -115,10 +115,10 @@ Providing these details up front will make everyone happy. If you don't provide 
 
 Always include the following essential details in every bug report:
 
-1. [version](#version): what version of X were you using when you experienced the bug?
-1. [description](#description): clear description of the bug, and minimum steps to reproduce it.
-1. [error messages](#error-messages): paste any error messages into the issue or a [github gist](https://gist.github.com/), and be sure to wrap the error messages in [gfm code blocks][gfm].
-1. [code](#code): paste any code necessary for reproducing the bug into the issue or a [github gist](https://gist.github.com/), and be sure to wrap the code in [gfm code blocks][gfm].
+1. [version](#1-version): what version of X were you using when you experienced the bug?
+2. [description](#2-description): clear description of the bug, and minimum steps to reproduce it.
+3. [error messages](#3-error-messages): paste any error messages into the issue or a [github gist](https://gist.github.com/), and be sure to wrap the error messages in [gfm code blocks][gfm].
+4. [code](#3-code): paste any code necessary for reproducing the bug into the issue or a [github gist](https://gist.github.com/), and be sure to wrap the code in [gfm code blocks][gfm].
 
 Let's review the details in more... detail.
 
@@ -126,7 +126,7 @@ Let's review the details in more... detail.
 
 Always, always, always provide the version you're using in bug reports. This can't be overstated.
 
-No matter how long you've been contributing to a project, or how familiar you are with the code and core team, every time a bug is reported, the first thing a core team member wants to know is: "What version were you using when you experienced the bug?". Core team members even ask one another for this detail when debugging. The bug you're experience may have alreay been fixed in a patch.
+_(No matter how long you've been contributing to a project, or how familiar you are with the code and core team, every time a bug is reported, the first thing a core team member wants to know is: "What version were you using when you experienced the bug?". Core team members even ask one another for this detail when debugging. The bug you're experience may have alreay been fixed in a patch.)_
 
 #### 2. description
 
@@ -175,7 +175,7 @@ TODO
 <br/>
 <br/>
 <br/>
-![separator](sep.png)
+![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
 <br/>
 <br/>
 <br/>
@@ -191,7 +191,7 @@ WIP
 <br/>
 <br/>
 <br/>
-![separator](sep.png)
+![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
 <br/>
 <br/>
 <br/>
