@@ -15,14 +15,14 @@ The following sections are planned. Any contributions or shared wisdom would be 
 - [Contributing 101](#contributing-101)
   * [What is contributing](#what-is-contributing)
   * [Why should I contribute?](#why-should-i-contribute)
-  * Getting familiarized with a project (docs, unit tests, community)
+  * [Getting familiarized with a project](#getting-familiarized-with-a-project)
 - [Effective Contributing](#effective-contributing)
   * [The 4 Details of Highly Effective Bug Reports](#the-4-details-of-highly-effective-bug-reports)
-  * Effective feature requests
-  * Contributing code
-  * Contributing documentation
-  * Other ways to contribute
-- Code of conduct and beyond
+  * [Effective feature requests](#effective-feature-requests)
+  * [Contributing code](#contributing-code)
+  * [Contributing documentation](#contributing-documentation)
+  * [Other ways to contribute](#other-ways-to-contribute)
+- [Code of conduct and beyond](#code-of-conduct-and-beyond)
 - [About](#about)
 
 <br/>
