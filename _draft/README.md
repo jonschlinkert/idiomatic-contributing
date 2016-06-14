@@ -1,1 +1,0 @@
-I tend to write in short bursts, and sometimes jot things down as a reminder to myself. This folder contains these thoughts.
