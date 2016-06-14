@@ -16,7 +16,7 @@ The following sections are planned. Any contributions or shared wisdom would be 
   * [What is contributing](#what-is-contributing)
   * [Why should I contribute?](#why-should-i-contribute)
   * Getting familiarized with a project (docs, unit tests, community)
-- [Effective Contributing]()
+- [Effective Contributing](#effective-contributing)
   * [The 4 Details of Highly Effective Bug Reports](#the-4-details-of-highly-effective-bug-reports)
   * Effective feature requests
   * Contributing code
