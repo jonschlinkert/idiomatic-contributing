@@ -186,7 +186,20 @@ TODO
 
 ### Other ways to contribute
 
-TODO
+**Show your support**
+
+Sometimes we find a project we like but just don't have time to contribute. That's okay, there are other ways to show support:  
+
+- Star the project
+- Tweet about it
+- Tell your friends
+
+**Show your appreciation**
+
+Maintainers are people too. You can make someone's day by letting them know you appreciate their work. If you use a library in one of your own projects, let the author know you care:
+
+- Add a link to the project on your project's readme
+- Say "thanks" on twitter
 
 <br>
 <br>
