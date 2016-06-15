@@ -163,7 +163,7 @@ TODO
 
 ### Effective pull requests
 
-TODO
+WIP
 
 It's not unusual for the maintainers of a project to ask you to make changes to your pull request. Here are some common reasons:
 
@@ -185,6 +185,8 @@ TODO
 TODO
 
 ### Other ways to contribute
+
+WIP
 
 **Show your support**
 
