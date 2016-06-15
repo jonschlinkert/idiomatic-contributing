@@ -200,6 +200,11 @@ WIP
 
 ### Contributors
 
+**Blake Embrey**
+
+* [github/blakeembrey](https://github.com/blakeembrey)
+* [twitter/blakeembrey](http://twitter.com/blakeembrey)
+
 [your name here!]
 
 ### Contributing to this project
