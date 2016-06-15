@@ -83,7 +83,7 @@ The following items are a pre-requisite for contributing to any project. Avoid c
 
 - **Review the readme**: Oftentimes a project readme has links to documentation, advice on creating issues or bug reports, and so on.
 - **Read contributing guidelines**: look for a `contributing.md` file and, if one exists, read it in its entirety before creating issues or doing a pull request. Typically this is in the root of the project, but it might be in `.github/contributing.md` (see [][issue-templates])
-- **Search issues**: Before creating bug reports, feature requests, or submitting issues of any kind, you should always search for existing issues (closed or open) that address the same or thing. 
+- **Search issues**: Before creating bug reports, feature requests, or submitting issues of any kind, you should always search for existing issues (closed or open) that address the same thing. 
 
 #### Recommended
 
