@@ -19,19 +19,20 @@ The following sections are planned. Any contributions or shared wisdom would be 
 - [Effective Contributing](#effective-contributing)
   * [The 4 Details of Highly Effective Bug Reports](#the-4-details-of-highly-effective-bug-reports)
   * [Effective feature requests](#effective-feature-requests)
+  * [Effective pull requests](#effective-pull-requests)
   * [Contributing code](#contributing-code)
   * [Contributing documentation](#contributing-documentation)
   * [Other ways to contribute](#other-ways-to-contribute)
 - [Code of conduct and beyond](#code-of-conduct-and-beyond)
 - [About](#about)
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 ![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 ## What to expect from this guide
 
@@ -42,13 +43,13 @@ If successful, this guide should achieve the following, depending on your level 
 - **new to open source**: As the saying goes, "competence breeds confidence". If you've never contributed to an open source project before, this guide will give you the information you need to get started. Confidence will arrive shortly afterwards.
 - **experienced**: If you're an experienced contributor, hopefully this guide will help you become a more effective contributor, or at very least give you ideas to use in your own contributing guides. 
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 ![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 ## Contributing 101
 
@@ -91,13 +92,13 @@ The following items are a pre-requisite for contributing to any project. Avoid c
 - **Get familiarized with the code** - If the codebase is small, and you're familiar with the language, take a moment to review the code to see if you find anything that can be improved. If the codebase is large, you might be able to provide domain expertise or fixes for specific areas.
 - **Ask questions** - Depending the project type and size, it might be good to start by searching google to find anwers to your questions. Then, check to see if the project uses [gitter]() or has a [slack]() channel, or something similar. Also visit [stackoverflow]() and do a search to see if others have already asked the same question. As a last resort, create an issue on the project's GitHub repository.
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 ![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 ## Effective contributing
 
@@ -187,13 +188,13 @@ TODO
 
 TODO
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 ![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 ## Code of conduct and beyond
 
@@ -205,13 +206,13 @@ WIP
 - dealing with rejection (Sometimes we try to contribute to a project and it doesn’t work out)
 - respecting copyrights
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 ![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 ## Resources
 
@@ -223,13 +224,13 @@ WIP
 
 - [Awesome contributing guides](https://github.com/jonschlinkert/awesome-contributing): Curated list of awesome `contributing.md` guides
 
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 ![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
 
 ## About
 
