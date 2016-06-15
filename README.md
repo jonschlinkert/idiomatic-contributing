@@ -1,4 +1,4 @@
-# Idiomatic Contributing
+# Guide to Idiomatic Contributing
 
 Welcome! The fact that you're here means you want to start contributing to open source projects, or you want learn how to be a better contributor. We applaud you for that, and hope you get the most out of this guide. But if you read no further than this section, here are the most important things to take away:
 
@@ -215,9 +215,21 @@ WIP
 
 ## Resources
 
-Here is a summary of the resources mentioned in this guide:
+**Resources mentioned in this guide:**
 
 - [Guide to Ammending Commits][ammending-commits]
+
+**Related information:**
+
+- [Awesome contributing guides](https://github.com/jonschlinkert/awesome-contributing): Curated list of awesome `contributing.md` guides
+
+<br/>
+<br/>
+<br/>
+![separator](https://cloud.githubusercontent.com/assets/383994/16028940/48225e8e-31b2-11e6-8170-6eea6574a7a6.png)
+<br/>
+<br/>
+<br/>
 
 ## About
 
