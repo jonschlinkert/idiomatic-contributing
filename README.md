@@ -204,7 +204,7 @@ WIP
 - collaboration leads to faster solutions
 - build lasting relationships
 - dealing with rejection (Sometimes we try to contribute to a project and it doesn’t work out)
-- respecting copyrights
+- attribution and respecting copyrights
 
 <br>
 <br>
@@ -235,6 +235,8 @@ WIP
 ## About
 
 ### Contributors
+
+If you contribute to this project, thank you! Please add your name to the following list:
 
 **Blake Embrey**
 
