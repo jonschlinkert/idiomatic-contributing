@@ -187,6 +187,8 @@ WIP
 - Try to avoid emailing maintainers directly with questions about a project, requests for help, or suggestions for a project. Once you've established a relationship with the maintainers this is probably okay, but it's frowned upon otherwise.
 - collaboration leads to faster solutions
 - build lasting relationships
+- dealing with rejection (Sometimes we try to contribute to a project and it doesn’t work out)
+- respecting copyrights
 
 <br/>
 <br/>
