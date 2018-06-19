@@ -207,8 +207,6 @@ It's not unusual for the maintainers of a project to ask you to make changes to 
 
 Whatever the reason, it's up to you to decide whether or not to make the changes, and it's up to the maintainers to decide whether or not to merge your pull request. 
 
-If you do decide to make any changes requested by the maintainers, you might find this [guide to ammending commits][ammending-commits] useful.
-
 ## Effective contributing
 
 ### Contributing code
@@ -342,4 +340,3 @@ Released under [Creative Commons](LICENSE).
 Copyright © 2016, [Jon Schlinkert](https://twitter.com/jonschlinkert).
 
 [issue-templates]: https://github.com/blog/2111-issue-and-pull-request-templates
-[ammending-commits]: https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md
