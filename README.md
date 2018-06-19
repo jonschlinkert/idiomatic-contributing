@@ -289,8 +289,6 @@ TODO:
 
 **Resources mentioned in this guide:**
 
-- [Guide to Ammending Commits][ammending-commits]
-
 **Related information:**
 
 - [Awesome contributing guides](https://github.com/jonschlinkert/awesome-contributing): Curated list of awesome `contributing.md` guides
