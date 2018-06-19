@@ -190,11 +190,11 @@ See GitHub's guide to [Creating and highlighting code blocks][gfm] for more deta
 [gfm]: https://help.github.com/articles/creating-and-highlighting-code-blocks/
 
 
-### Effective feature requests
+## Effective feature requests
 
 Before submitting a feature request, try to get familiarized with the project. Find out if the project has certain goals, or guidelines that describe how feature requests should be made. 
 
-### Effective pull requests
+## Effective pull requests
 
 WIP
 
