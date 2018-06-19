@@ -170,8 +170,6 @@ Decribe the bug with all of the details necessary for others to understand what'
 - [ ] Expected behavior and actual behavior.
 - [ ] Steps to reproduce the problem.
 
-[description]
-
 #### 3. error message
 
 ```sh
