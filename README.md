@@ -91,7 +91,7 @@ The following items are a pre-requisite for contributing to any project. Avoid c
 - **Review the readme**: Oftentimes a project readme has links to documentation, advice on creating issues or bug reports, and so on.
 - **Read contributing guidelines**: look for a `contributing.md` file and, if one exists, read it in its entirety before creating issues or doing a pull request. Typically this is in the root of the project, but it might be in `.github/contributing.md`
 - **Search issues**: Before creating bug reports, feature requests, or submitting issues of any kind, you should always search for existing issues (closed or open) that address the same thing.
-- **Search google (or whatever search engine you prefer)**: Oftentimes a quick google search will turn up information that won't show up in a GitHub search. This reminds me of something I personally experienced recently. I was about to create an issue on a project I use to ask a question about a feature. It seemed unlikely that other users were using this project for the same thing as me, so I almost didn't do a search for existing issues first. I went ahead and searched googla anyway, and as it turned out, not only did other users wonder about the same thing, but there were several complete blog posts dedicated to answering the question I had.
+- **Search google (or whatever search engine you prefer)**: Oftentimes a quick google search will turn up information that won't show up in a GitHub search. This reminds me of something I personally experienced recently. I was about to create an issue on a project I use to ask a question about a feature. It seemed unlikely that other users were using this project for the same thing as me, so I almost didn't do a search for existing issues first. I went ahead and searched google anyway, and as it turned out, not only did other users wonder about the same thing, but there were several complete blog posts dedicated to answering the question I had.
 
 #### Recommended
 
@@ -170,8 +170,6 @@ Decribe the bug with all of the details necessary for others to understand what'
 - [ ] Expected behavior and actual behavior.
 - [ ] Steps to reproduce the problem.
 
-[description]
-
 #### 3. error message
 
 ```sh
@@ -192,11 +190,11 @@ See GitHub's guide to [Creating and highlighting code blocks][gfm] for more deta
 [gfm]: https://help.github.com/articles/creating-and-highlighting-code-blocks/
 
 
-### Effective feature requests
+## Effective feature requests
 
 Before submitting a feature request, try to get familiarized with the project. Find out if the project has certain goals, or guidelines that describe how feature requests should be made. 
 
-### Effective pull requests
+## Effective pull requests
 
 WIP
 
@@ -208,8 +206,6 @@ It's not unusual for the maintainers of a project to ask you to make changes to 
 - Missing unit tests
 
 Whatever the reason, it's up to you to decide whether or not to make the changes, and it's up to the maintainers to decide whether or not to merge your pull request. 
-
-If you do decide to make any changes requested by the maintainers, you might find this [guide to ammending commits][ammending-commits] useful.
 
 ## Effective contributing
 
@@ -293,8 +289,6 @@ TODO:
 
 **Resources mentioned in this guide:**
 
-- [Guide to Ammending Commits][ammending-commits]
-
 **Related information:**
 
 - [Awesome contributing guides](https://github.com/jonschlinkert/awesome-contributing): Curated list of awesome `contributing.md` guides
@@ -344,4 +338,3 @@ Released under [Creative Commons](LICENSE).
 Copyright © 2016, [Jon Schlinkert](https://twitter.com/jonschlinkert).
 
 [issue-templates]: https://github.com/blog/2111-issue-and-pull-request-templates
-[ammending-commits]: https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md
