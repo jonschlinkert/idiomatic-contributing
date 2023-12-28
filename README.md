@@ -97,7 +97,7 @@ The following items are a pre-requisite for contributing to any project. Avoid c
 
 - **Review unit tests**: one of the best ways to get familiarized with a project is through its unit tests. Of course, this depends on the type of project, complexity, test coverage, and so on. But when applicable, test are often a good source of insight.
 - **Get familiarized with the code**: If the codebase is small, and you're familiar with the language, take a moment to review the code to see if you find anything that can be improved. If the codebase is large, this provides even more opportunity to add value. You might be able to provide domain expertise or fixes for specific areas. If you want to add value to a big project, don't shy away from contributing because you aren't sure where to start with the code. Instead, if the project's contributing guide doesn't cover this already, create an issue and ask the maintainers to point you in the right direction. 
-- **Ask questions**: Depending the project type and size, it might be good to start by searching google to find anwers to your questions. Then, check to see if the project uses [gitter](https://gitter.im) or has a [slack](https://slack.com/) channel, or something similar. Also visit [stackoverflow](https://stackoverflow.com) and do a search to see if others have already asked the same question. As a last resort, create an issue on the project's GitHub repository.
+- **Ask questions**: Depending the project type and size, it might be good to start by searching google to find answers to your questions. Then, check to see if the project uses [gitter](https://gitter.im) or has a [slack](https://slack.com/) channel, or something similar. Also visit [stackoverflow](https://stackoverflow.com) and do a search to see if others have already asked the same question. As a last resort, create an issue on the project's GitHub repository.
 
 <br>
 <br>
@@ -140,7 +140,7 @@ When a bug report is warranted, the vast majority of bug reports should include 
 
 **Rationale**
 
-The easier you make it for a maintainter or members of the community to react, the more likely it is for them to react quickly. 
+The easier you make it for a maintainer or members of the community to react, the more likely it is for them to react quickly. 
 
 Like you, maintainers have to make decisions about where to spend their time. Not only within a given project, but oftentimes across multiple projects. If you're experiencing a bug and you want to make a report, bug reports that are clearly described and organized are much more likely to get addressed by the maintainers or member of the community.
 
@@ -161,11 +161,11 @@ Let's review the details in more... detail.
 
 Always, always, always provide the version you're using in bug reports. This can't be overstated.
 
-_(No matter how long you've been contributing to a project, or how familiar you are with the code and core team, every time a bug is reported, the first thing a core team member wants to know is: "What version were you using when you experienced the bug?". Core team members even ask one another for this detail when debugging. The bug you're experience may have alreay been fixed in a patch.)_
+_(No matter how long you've been contributing to a project, or how familiar you are with the code and core team, every time a bug is reported, the first thing a core team member wants to know is: "What version were you using when you experienced the bug?". Core team members even ask one another for this detail when debugging. The bug you're experience may have already been fixed in a patch.)_
 
 #### 2. description
 
-Decribe the bug with all of the details necessary for others to understand what's happening, including:
+Describe the bug with all of the details necessary for others to understand what's happening, including:
 
 - [ ] Expected behavior and actual behavior.
 - [ ] Steps to reproduce the problem.
@@ -221,7 +221,7 @@ TODO
 
 **Adding value takes time**
 
-Depending on your personal goals, keep in mind that it might take longer and require more time committment to add value to a larger project than it would for a small project. 
+Depending on your personal goals, keep in mind that it might take longer and require more time commitment to add value to a larger project than it would for a small project. 
 
 If you want to become a respected and valuable member of a popular project, consider time investment made by the current maintainers and the project's creator. It's reasonable to expect that it will take some time to become familiar with the project's codebase. Review the project's unit tests. Read the docs. Try to understand the project's goals and direction, and try to get to know the current maintainers and community. 
 
@@ -313,6 +313,9 @@ If you contribute to this project, thank you! Please add your name to the follow
 
 * [github/blakeembrey](https://github.com/blakeembrey)
 * [twitter/blakeembrey](http://twitter.com/blakeembrey)
+
+**Marcel Petrick**
+* [github/marcelpetrick](https://github.com/marcelpetrick)
 
 [your name here!]
 
